@@ -1,0 +1,12 @@
+{
+  "name": "mu-expo",
+  "displayName": "mu-expo",
+  "expo": {
+    "name": "mu-expo",
+    "slug": "mu-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
